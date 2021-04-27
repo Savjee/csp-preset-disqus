@@ -1,0 +1,24 @@
+{
+  "name": "csp-preset-disqus",
+  "version": "1.0.0",
+  "description": "Disqus preset for csp-header",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Savjee/csp-preset-disqus.git"
+  },
+  "keywords": [
+    "csp",
+    "security",
+    "disqus"
+  ],
+  "author": "Xavier Decuyper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Savjee/csp-preset-disqus/issues"
+  },
+  "homepage": "https://github.com/Savjee/csp-preset-disqus#readme"
+}
