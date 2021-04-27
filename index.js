@@ -1,6 +1,6 @@
 "use strict";
 
-modules.exports = {
+module.exports = {
     "frame-src": [
         "disqus.com",
         "c.disquscdn.com", 

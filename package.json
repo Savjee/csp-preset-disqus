@@ -1,6 +1,6 @@
 {
   "name": "csp-preset-disqus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Disqus preset for csp-header",
   "main": "index.js",
   "scripts": {
