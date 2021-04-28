@@ -1,12 +1,15 @@
 # csp-preset-disqus
 Disqus preset for [csp-header](https://github.com/frux/csp/tree/master/packages/csp-header#readme)
 
-Installation:
+![npm](https://img.shields.io/npm/v/csp-preset-disqus)
+![npm](https://img.shields.io/npm/dw/csp-preset-disqus)
+
+## Installation
 ```
 npm install --save csp-preset-disqus
 ```
 
-Usage:
+## Usage
 ```js
 const { getCSP } = require('csp-header');
 
@@ -26,3 +29,6 @@ const my_csp_policy = getCSP({
 ```
 
 Don't forgot the add your Disqus subdomain to the `script-src` directive.
+
+## Contribute
+Feel free to open issues/pull-requests if a directive is missing.
